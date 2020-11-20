@@ -9,6 +9,7 @@ aplikasi "SpidyLib" adalah alat batu bagi pengamat laba-laba dalam mengumpulkan,
 
 ## kelompok_b_sdgs_15
 - Chulsum Alimah N.             (182410103084)
+(misah sama kelompok)
 
 ## update
 update 1 ada di branch master, ini update 2 (uts)
